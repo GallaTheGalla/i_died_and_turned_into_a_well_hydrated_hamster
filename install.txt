@@ -1,0 +1,4 @@
+Charset,UTF-8
+type,shell
+name,I died and turned into a well hydrated hamster
+directory,i_died_and_turned_into_a_well_hydrated_hamster

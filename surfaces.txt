@@ -1,0 +1,73 @@
+descript
+{
+	version,1
+}
+
+surface0
+{
+	animation20.interval,random,10
+	animation20.pattern0,overlay,20,300,0,0
+	animation20.pattern1,overlay,21,300,0,0
+	animation20.pattern2,overlay,22,300,0,0
+	animation20.pattern3,overlay,23,300,0,0
+	animation20.pattern4,overlay,24,300,0,0
+	animation20.pattern5,overlay,25,300,0,0
+	animation20.pattern6,overlay,26,300,0,0
+	animation20.pattern7,overlay,27,300,0,0
+	animation20.pattern8,overlay,28,200,0,0
+	animation20.pattern9,overlay,29,200,0,0
+	animation20.pattern10,overlay,30,200,0,0
+	animation20.pattern11,overlay,31,200,0,0
+	animation20.pattern12,overlay,32,200,0,0
+	animation20.pattern13,overlay,33,100,0,0
+	animation20.pattern14,overlay,34,100,0,0
+	animation20.pattern15,overlay,35,100,0,0
+	animation20.pattern16,overlay,36,100,0,0
+	animation20.pattern17,overlay,-1,100,0,0
+	
+	animation100.interval,bind
+	animation100.pattern0,overlay,100,0,0,0
+	
+	animation101.interval,bind
+	animation101.pattern0,overlay,101,0,0,0
+	
+	animation102.interval,bind
+	animation102.pattern0,overlay,102,0,0,0
+	
+	animation103.interval,bind
+	animation103.pattern0,overlay,103,0,0,0
+	
+	animation104.interval,bind
+	animation104.pattern0,overlay,104,0,0,0
+	
+	animation105.interval,bind
+	animation105.pattern0,overlay,105,0,0,0
+	
+	animation106.interval,bind
+	animation106.pattern0,overlay,106,0,0,0
+	
+	animation107.interval,bind
+	animation107.pattern0,overlay,107,0,0,0
+	
+	animation108.interval,bind
+	animation108.pattern0,overlay,108,0,0,0
+	
+	
+	
+	animation110.interval,bind
+	animation110.pattern0,overlay,110,0,0,0
+	
+	animation111.interval,bind
+	animation111.pattern0,overlay,111,0,0,0
+	
+	animation112.interval,bind
+	animation112.pattern0,overlay,112,0,0,0
+	
+	animation113.interval,bind
+	animation113.pattern0,overlay,113,0,0,0
+	
+	
+
+	animation117.interval,bind
+	animation117.pattern0,overlay,117,0,0,0
+}
