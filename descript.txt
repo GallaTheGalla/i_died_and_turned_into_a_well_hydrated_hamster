@@ -20,10 +20,12 @@ sakura.bindgroup105.name,Bottle,Green
 sakura.bindgroup106.name,Bottle,Teal
 sakura.bindgroup107.name,Bottle,Blue
 sakura.bindgroup108.name,Bottle,Purple
-
+sakura.bindgroup109.name,Bottle,Cosmic
 sakura.bindgroup110.name,Bottle,Rainbow
 sakura.bindgroup111.name,Bottle,Heartberry
 sakura.bindgroup112.name,Bottle,Tenderheart
 sakura.bindgroup113.name,Bottle,Raindrop
-
+sakura.bindgroup114.name,Bottle,Household
+sakura.bindgroup115.name,Bottle,Farmyard
+sakura.bindgroup116.name,Bottle,Woodland
 sakura.bindgroup117.name,Bottle,Googles
